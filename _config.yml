@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: Python College Analytics
+description: >
+  <h3>College Data Analysis using basic python commandst</h3>
+  <p>
+    <br>
+    <br>
+    <b>Libraries:</b>
+    <ul>
+      <li>Pandas</li>
+      <li>DataFrame</li>
+    </ul>
+    <br>
+  </p>
+---
