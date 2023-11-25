@@ -1,14 +1,15 @@
 theme: jekyll-theme-minimal
-title: Python College Analytics
+title: Image classification Iceptionv3
 description: >
-  <h3>College Data Analysis using basic python commandst</h3>
+  <h3>Image classification Using Pretrained inceptionv3 Model</h3>
   <p>
     <br>
     <br>
     <b>Libraries:</b>
     <ul>
+      <li>TensorFlow and Keras</li>
       <li>Pandas</li>
-      <li>DataFrame</li>
+      <li>Matplotlib</li>
     </ul>
     <br>
   </p>
