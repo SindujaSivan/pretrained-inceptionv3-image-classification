@@ -12,6 +12,9 @@ The objective of this small project is to create a simple image recognition and 
 
 1. **Load Pre-trained Model:**
    - The project starts by loading a pre-trained deep learning model (InceptionV3) using TensorFlow and Keras. This model has been trained on the ImageNet dataset for image classification.
+     
+**Input Folder Images**
+![Input_Image](assets/Input_Image.png)
 
 2. **Image Processing Function:**
    - A function (`recognize_and_name_items_in_folder`) is created to process a folder of images. This function does the following:
